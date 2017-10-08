@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TCPz - open tcp client</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="msg">message</string>
+    <string name="serv_addr">10.0.0.6</string>
+    <string name="serv_port">3333</string>
+</resources>
